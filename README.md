@@ -21,7 +21,7 @@ Objectifs / Objectives :
 
 **Projet 2 : Analyse de la santé globale / Project 2: Global Health Analysis**
 
-Jeu de données / Dataset : Global Health Indicators
+Jeu de données / Dataset : World health data
  (Kaggle / WHO)
 
 Description / Description : Analyse des indicateurs de santé globale pour identifier les tendances et disparités entre pays et régions.
